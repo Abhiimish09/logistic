@@ -1,0 +1,5 @@
+flask
+sqlalchemy
+ultralytics
+opencv-contrib-python
+labelimg
